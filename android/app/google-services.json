@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175537780570",
+    "project_id": "tp-guide-ipssi",
+    "storage_bucket": "tp-guide-ipssi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175537780570:android:8b257b1bb00f14dc402563",
+        "android_client_info": {
+          "package_name": "com.example.flutter_class_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ9vqS0NEOzNNt0D7PGjbsBDCthkgejdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
